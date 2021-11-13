@@ -35,6 +35,18 @@
     - title: Tables
     - title: Tooltips
 
+- title: Forms
+  pages:
+    - title: Input groups
+    - title: Select menus
+    - title: Checkboxes
+    - title: Radio groups
+    - title: Range slider
+    - title: Floating labels
+    - title: File upload
+    - title: Input validation
+    - title: Toggles & switches
+
 - title: Plugins
   pages:
     - title: Datepicker
