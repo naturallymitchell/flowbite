@@ -39,12 +39,13 @@
   pages:
     - title: Input groups
     - title: Select menus
+    - title: Textarea
     - title: Checkboxes
     - title: Radio groups
     - title: Range slider
     - title: Floating labels
     - title: File upload
-    - title: Input validation
+    - title: Color picker
     - title: Toggles & switches
 
 - title: Plugins

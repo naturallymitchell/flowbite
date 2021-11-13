@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tailwind CSS Toggles and Switches - Flowbite
+title: Tailwind CSS Toggles & Switches - Flowbite
 description: Use the Tailwind CSS form and input elements such as checkboxes, radios, textarea, text inputs to collect information from users with FlowBite
 group: forms
 toc: true

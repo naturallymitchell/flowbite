@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tailwind CSS Form Elements - Flowbite
-description: Use the Tailwind CSS form and input elements such as checkboxes, radios, textarea, text inputs to collect information from users with FlowBite
+description: Use the Tailwind CSS form and input elements such as checkboxes, radios, textarea, file uploads, and text inputs to collect information from users
 group: components
 toc: true
 
@@ -10,6 +10,49 @@ previousLink: components/dropdowns
 next: List group
 nextLink: components/list-group
 ---
+
+<div class="lg:grid lg:grid-cols-2 lg:gap-4 my-10">
+    <a href="{{< ref "forms/input-groups" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Input groups</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/select-menus" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Select menus</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/textarea" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Textarea</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/checkboxes" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Checkboxes</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/radio-groups" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Radio groups</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/range-slider" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Range slider</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/floating-labels" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Floating labels</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/file-upload" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">File upload</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/color-picker" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Color picker</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+    <a href="{{< ref "forms/toggles-switches" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
+        <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Toggles & Switches</h3>
+        <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
+    </a>
+</div>
 
 ## Form example
 

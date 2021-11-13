@@ -22,7 +22,7 @@ All of the elements are built using the utility classes from Tailwind CSS and va
 
 Here's a quick overview of the Flowbite ecosystem including the open source Tailwind components library, the Figma design files, and the pro version.
 
-<div class="lg:grid lg:grid-cols-2 lg:gap-8 mt-10">
+<div class="lg:grid lg:grid-cols-2 lg:gap-4 mt-10">
     <a href="{{< ref "getting-started/quickstart" >}}" class="p-6 block bg-white hover:bg-gray-100 shadow-md border border-gray-200 rounded-lg mb-6 lg:mb-0">
         <h3 class="text-gray-900 font-bold text-2xl tracking-tight mb-2">Quickstart</h3>
         <p class="font-normal text-gray-700">Learn how to get started by downloading and configuring Flowbite locally on your machine and start developing.</p>
