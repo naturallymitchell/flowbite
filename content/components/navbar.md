@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Tailwind CSS Navigation Bar - Flowbite
-description: Use these Tailwind CSS navbar elements to show a navigational bar at the top side of your website
+title: Tailwind CSS Navbar - Flowbite
+description: Use these responsive Tailwind CSS navbar elements to show a navigational bar at the top side of your website
 group: components
 toc: true
 requires_js: true
@@ -12,7 +12,7 @@ next: Pagination
 nextLink: components/pagination
 ---
 
-Get started with the responsive navbar component from Flowbite to quickly set up a navigation menu for your website and set up the logo, list of pages and even call to action buttons, a search field, or a dropdown item.
+Get started with the responsive navigation bar component from Flowbite to quickly set up a navigation menu for your website and set up the logo, list of pages and even call to action buttons, a search field, or a dropdown item.
 
 ## Default navbar
 
